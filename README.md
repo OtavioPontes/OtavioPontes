@@ -1,7 +1,9 @@
 ## Hello There, I'm Otávio 😎
 
-- Flutter Developer at Way Data Solution 📱 
-- Computer Engineering Student at UFG 💻
+- 🏡 From Goiânia - Goiás - BR
+- 🐱‍🏍 23 years old
+- 📱 Flutter Developer at Way Data Solution 
+- 💻 Computer Engineering Student at UFG 
 
 ### 🥇 My Stats
 
