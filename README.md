@@ -2,7 +2,7 @@
 
 - 🏡 From Goiânia - Goiás - BR
 - 🐱‍🏍 23 years old
-- 📱 Flutter Developer at Way Data Solution 
+- 📱 Flutter Developer at Arbit
 - 💻 Computer Engineering Student at UFG 
 
 ### 🥇 My Stats
