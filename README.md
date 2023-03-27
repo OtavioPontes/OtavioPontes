@@ -3,9 +3,9 @@
 ## Hello There, I'm Otávio 😎
 
 - 🏡 From Goiânia - Goiás - BR
-- 🐱‍🏍 24 years old
+- 🪪 24 years old
 - 📱 Flutter Developer at Arbit
-- 💻 Computer Engineering Student at UFG 
+- 💻 Computer Engineering Bachelor by UFG
 
 ### 🥇 My Stats
 
