@@ -3,8 +3,8 @@
 ## Hello There, I'm Otávio 😎
 
 - 🏡 From Goiânia - Goiás - BR
-- 🪪 24 years old
-- 📱 Flutter Developer at Arbit
+- 🪪 27 years old
+- 📱 AI Software Engineer at Dialog
 - 💻 Computer Engineering Bachelor by UFG
 
 ### 🥇 My Stats
